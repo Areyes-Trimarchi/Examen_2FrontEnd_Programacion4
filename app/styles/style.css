@@ -25,3 +25,7 @@
   font-family: Helvetica;
   color: white;
 }
+
+body{
+  background-image: image("Img/.fondo_navideno.jpeg");
+}
