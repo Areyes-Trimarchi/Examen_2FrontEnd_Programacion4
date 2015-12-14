@@ -27,5 +27,5 @@
 }
 
 #body{
-  background-image: image("Img/fondo_navideno.jpeg");
+  background-image: url("Img/fondo_navideno.jpeg");
 }
